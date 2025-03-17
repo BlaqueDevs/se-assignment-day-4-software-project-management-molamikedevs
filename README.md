@@ -71,7 +71,7 @@ Understanding market trends helps identify user needs and position the software 
 
 ---
 
-Feel free to review and make changes as needed!
+
 
 
 
